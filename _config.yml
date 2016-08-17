@@ -1,0 +1,14 @@
+name: Aurora Emporium Art Gallery
+layout_spectrum: 0.13551307325602413
+typography_spectrum: 0.12343961449760332
+color:
+  brandColors:
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+  brandStrength: 0.8359146494628913
+  lightness: 0.7410376259111505
+  saturation: 0.5310347421244525
+  rhythmicContrast: 0.29876564022588403
