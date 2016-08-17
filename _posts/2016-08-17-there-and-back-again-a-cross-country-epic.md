@@ -13,8 +13,8 @@ keywords:
   - trip
   - garment
 title: 'There & Back Again: A Cross-Country Epic'
-datePublished: '2016-08-17T02:01:11.204Z'
-dateModified: '2016-08-17T02:01:09.946Z'
+datePublished: '2016-08-17T02:37:14.954Z'
+dateModified: '2016-08-17T02:36:00.756Z'
 publisher:
   name: Sony | Alpha Universe
   domain: alphauniverse.com
@@ -36,4 +36,4 @@ sourcePath: _posts/2016-08-17-there-and-back-again-a-cross-country-epic.md
 _type: MediaObject
 
 ---
-<article style=""><h1>There &amp; Back Again: A Cross-Country Epic</h1><p>It's usually late February or early March when I load up my vehicle with tools of photographic wonder to embark on a journey from Asheville, NC into the unknown and across the U.S. Destination: Las Vegas. WPPI to be exact, where I have been an educator there since 2002.</p><img src="https://7184be859e18174b847e-601d5e978daa0c1fb99ce75829e6c206.ssl.cf2.rackcdn.com/or-roadwork2016_001.JPG" /></article>
+<article style=""><h1>There &amp; Back Again: A Cross-Country Epic</h1><p>It's usually late February or early March when I load up my vehicle with tools of photographic wonder to embark on a journey from Asheville, NC into the unknown and across the U.S. Destination: Las Vegas. WPPI to be exact, where I have been an educator there since 2002.</p></article>
